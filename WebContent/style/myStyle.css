@@ -1,0 +1,132 @@
+@CHARSET "UTF-8";
+.upColor{
+	color:#ebf5fb;
+}
+.blockHead{
+	padding-top:20px;
+	margin:10px 10px 20px 20px;
+	border-radius:5px;
+	background-color:rgba(0,0,0,0.7);
+	color:white; 	
+}
+.mailMenu
+{
+	padding:10px 20px 10px 10px;
+	margin:10px 10px 10px 10px;
+	border-radius:4px;
+	background-color:#eeeeee; 	
+}
+.inboxMail{
+	padding:10px 20px 10px 10px;
+	margin:10px 10px 10px 10px;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.7);
+	color:white; 	
+}
+.inboxMail input{
+	margin:0px 10px 0px 10px;
+}
+.inboxMailUnread{
+	background-color:rgba(178,178,216,0.4);
+}
+.formGap{
+	margin:20px 10px 10px 10px;
+}
+.blockContent{
+	padding-top:10px;
+	margin:20px 10px 20px 10px;
+	color:#fbfcfc;  	
+}
+.navHead{
+	padding:10px 10px 10px 10px;
+}
+.navHead a{
+	color:#1b4f72;
+}
+.navHead input{
+	padding:1px 5px 1px 5px;
+	width:274px;
+	height:31px;
+	margin:0px 5px 5px 0px;
+}
+.headContent{
+	font-size:40px;
+	font-family:impact;
+}
+input{
+	color:black;
+	border-radius:6px;
+}
+legend{
+	color:#fbfcfc;
+}
+.grid{
+	font-size:25px;
+	height:50px;
+	text-decoration:none;
+	height:50px;
+	line-height:50px;
+	text-align:left;
+	padding-left:10px;
+}
+.gridOut{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:4px;
+	margin:10px 10px 10px 10px;
+	width:170px;
+}
+.active{
+	padding-left:10px;
+	background-color:#1b4f72;
+	font-size:25px;
+	height:50px;
+	text-decoration:none;
+	height:50px;
+	line-height:50px;
+	text-align:left;
+}
+.active a{
+	color:white;
+}
+a:link{
+	text-decoration:none;
+}
+.grid a,button a,button a:hover,button a:visited{
+	color:white;
+}
+.mailBody{
+	background-color: #d0d3d4;
+	background-image:url("mail1.jpg");
+	background-postion:center;
+}
+.iconImage{
+	height:30px;
+	margin-right:2.5px;
+}
+input[type="checkbox"]{
+    display:inline-block;
+    width:20px;
+    height:20px;
+    line-height:10px;
+    background-color:black;
+    background:url('correct.png') left top no-repeat;
+}
+.head{
+	font-size:20px;
+}
+pre{
+	color:white;
+	border:0px solid black;
+	font-size:12px;
+	background-color:rgba(0,0,0,0.2);
+}
+.btn{
+	margin-right:3px;
+}
+.buttonImage{
+	background-color:rgba(0,0,0,0);
+	border:0px;
+	width:30px;
+	padding:1px 2px 1px 2px;
+	margin:0px 0px 0px 10px;
+}
