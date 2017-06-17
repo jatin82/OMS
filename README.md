@@ -12,3 +12,6 @@ Online Mailing System is used for sending and receiving mails. There are various
   HTML/CSS , Bootstrap , jquery , Ajax .
 ### Server-side
   JSP java Servlet , Apache Tomcat Server , My Sql
+
+  
+#### email : jatin.sokhal3@gmail.com
